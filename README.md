@@ -22,6 +22,8 @@ Safety features and trust indicators were not prominently displayed.
 
 The interface felt heavy and overwhelming, making the user journey less intuitive.
 
+overcome these
+
 
 **OUTPUT**
 
