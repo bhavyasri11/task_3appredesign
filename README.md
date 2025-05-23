@@ -25,3 +25,4 @@ The interface felt heavy and overwhelming, making the user journey less intuitiv
 
 **OUTPUT**
 
+![Image](https://github.com/user-attachments/assets/9e1c4dab-7f17-4830-95c3-9f87b87ed1a4)
