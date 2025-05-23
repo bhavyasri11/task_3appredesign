@@ -12,17 +12,15 @@
 
 **DISCRIPTION OF THE TASK WHAT I HAVE DONE**:
 
-Users faced visual clutter due to unorganized and excessive promotional banners.
+Streamlined the UI to reduce clutter and improve focus on key user actions.
 
-Navigation across services like delivery and dine-out lacked clarity.
+Introduced clear navigation filters (Food Delivery, Instamart, Dineout) to simplify service discovery.
 
-Restaurant discovery was time-consuming and not well categorized.
+Enhanced the search bar visibility for quicker access to specific restaurants or dishes.
 
-Safety features and trust indicators were not prominently displayed.
+Used modular cards for offers and categories to create a clean, scrollable layout.
 
-The interface felt heavy and overwhelming, making the user journey less intuitive.
-
-overcome these
+Improved restaurant listings with concise info (delivery time, price, offers) to aid faster decision-making.
 
 
 **OUTPUT**
